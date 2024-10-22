@@ -56,4 +56,7 @@ Give a ⭐️ if this project helped you!
 Copyright © 2024 [Axel Paxton](https://github.com/Axe-P).<br />
 This project is [MIT](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE) licensed.
 
+## Deployed Site link:
+https://kanban-board-1nwe.onrender.com
+
 ***
