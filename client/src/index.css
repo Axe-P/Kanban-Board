@@ -147,15 +147,15 @@ tbody tr:nth-child(odd) {
 }
 
 .todo {
-  background-color: #e9cbec;
+  background-color: #f2a7b2;
 }
 
 .inprogress {
-  background-color: #b864c4;
+  background-color: #efdb91;
 }
 
 .done {
-  background-color: #732381;
+  background-color: #91ef9f;
 }
 
 .ticket-card {
