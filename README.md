@@ -1,33 +1,63 @@
-# Krazy Kanban Board
+<h1 align="center">Welcome to KanBan Board 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <img src="https://img.shields.io/badge/npm-%3E%3D5.5.0-blue.svg" />
+  <img src="https://img.shields.io/badge/node-%3E%3D9.3.0-blue.svg" />
+  <a href="https://github.com/kefranabg/readme-md-generator#readme" target="_blank">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  </a>
+  <a href="https://github.com/kefranabg/readme-md-generator/graphs/commit-activity" target="_blank">
+    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+  </a>
+  <a href="https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/github/license/Axe-P/KanBan Board" />
+  </a>
+</p>
 
-## Description
-Used to manage your to-do's/what's been done.
+> KanBan Board that allows you to keep track of what needs to be done and what has been accomplished.
 
-## Table of Contents
-- [Installation](#install)
-- [Tests](#test)
-- [Usage](#usage)
-- [Contributing](#contributions)
-- [License](#license)
-- [Questions](#questions)
+### 🏠 [Homepage](https://kanban-board-1nwe.onrender.com)
+
+## Prerequisites
+
+- npm >=5.5.0
+- node >=9.3.0
 
 ## Install
-N/A Use provided website. (when README is updated.)
 
-## Testing
-Clone this down to your machine, make sure you properly configure .env. Run npm i in root directory. Seed the provided db, run npm run-script seed. Than finally run npm run-script start:dev to have this run in Vite.
+```sh
+npm install
+```
 
 ## Usage
-N/A
 
-## Contributions
-N/A
+```sh
+npm run build && npm run seed && npm run start:dev
+```
 
-## License
-This project licensed by MIT.
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-[MIT License](https://opensource.org/licenses/MIT)
+## Run tests
 
+```sh
+None
+```
 
-## Questions
-If you have any questions, reach out to me at [axep504@gmail.com](mailto:axep504@gmail.com)! My GitHub: [Axe-P](https://github.com/Axe-P).
+## Author
+
+👤 **Axel Paxton**
+
+* GitHub: [@Axe-P](https://github.com/Axe-P)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/kefranabg/readme-md-generator/issues). You can also take a look at the [contributing guide](https://github.com/kefranabg/readme-md-generator/blob/master/CONTRIBUTING.md).
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+## 📝 License
+
+Copyright © 2024 [Axel Paxton](https://github.com/Axe-P).<br />
+This project is [MIT](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE) licensed.
+
+***
