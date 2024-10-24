@@ -183,7 +183,7 @@ tbody tr:nth-child(odd) {
 .form {
   width: 60%;
   height: 80%;
-  background-color: #b864c4;
+  background-color: #663300;
   margin: auto;
   display: flex;
   flex-direction: column;
